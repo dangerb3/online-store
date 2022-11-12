@@ -14,3 +14,5 @@ class BrandController {
 }
 
 module.exports = new BrandController();
+
+// Доделать корзину, рейтинг
